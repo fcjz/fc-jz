@@ -5,4 +5,8 @@
 
 ## 人设
 
+目前草稿：
+
+![me](https://github.com/fcjz/fc-jz/blob/main/%E8%87%AA%E6%88%91%E7%94%BB%E5%83%8F.jpg)
+
 |发色|黑色|
